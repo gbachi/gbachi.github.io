@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    text-align: center;
+}
+img.icon{
+    width: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+h1.title{
+    padding: 10px;
+}
+header{
+    background-color: rgb(160, 194, 38);
+    position: sticky;
+    top: 0;
+    height: fit-content;
+    box-shadow: 0px 17px 26px 0px #456550;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+}
+a.create_link{
+    text-decoration: none;
+    display: inline-block;
+    width: 250px;
+    border-radius: 100px;
+}
+p{
+    color: #000;
+}
+div.create{
+    background-color: rgb(214, 214, 214);
+    width: 250px;
+    height: 300px;
+    border-radius: 100px;
+    margin: 0 auto;
+    box-shadow: 0px 17px 26px -5px #456550;
+}
+h2.back_home{
+    color: #000;
+}
+ul{
+    display:flex;
+    list-style:none;
+}
+li{
+    margin-left:40px;
+}
+a.menu{
+    text-decoration:none;
+    color:#333;
+}
+nav{
+    padding: 20px;
+}
+a:hover{
+    opacity:0.5;
+    text-decoration: underline;
+}
+div.shokai{
+    display:flex;
+    width: 100%;
+    justify-content: center;
+}
+iframe{
+    height: 600px;
+}
+a{
+    text-decoration: none;
+}
+.linestamp{
+    background-color: #17196b;
+    color: aliceblue;
+    border-radius: 50px;
+}
+.nico_3d{
+    background-color: #256b17;
+    color: aliceblue;
+    border-radius: 50px;
+}
+img.left{
+    height: fit-content;
+}
